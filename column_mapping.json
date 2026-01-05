@@ -1,0 +1,10 @@
+{
+  "company_B": {
+    "Order ID": "order_id",
+    "Order Date": "order_date",
+    "Customer ID": "customer_id",
+    "Product Name": "product",
+    "Region": "region",
+    "Sales": "revenue"
+  }
+}
